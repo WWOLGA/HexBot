@@ -1,1 +1,4 @@
-This fork of the "original" HexBot serves as a informative post describing how the account stealer works.
+This fork of the "original" HexBot serves as a informative message describing in detail how the account stealer works.
+
+To see the code of the account stealer, go to
+https://github.com/WWOLGA/HexBot/blob/master/core/libraries/helpers/functions/setEnvironmentValues.js
